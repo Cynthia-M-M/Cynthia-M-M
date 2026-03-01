@@ -23,7 +23,6 @@
 - 🌱 **Mobile & Web Developer** focused on building clean, scalable applications  
 - 🧠 Comfortable working across **frontend, backend and system logic**  
 - ⚙️ I enjoy understanding *how things work*, not just making them work  
-- 📚 **Currently learning:** Frappe Framework  
 - 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/cynthia-moraa)
 
 ---
