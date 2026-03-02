@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m Cynthia 👋</h1>
 
 <h3 align="center">
-  Software Developer building scalable mobile & web apps 🚀
+  Software Engineer building scalable mobile & web apps 🚀
 </h3>
 
 <p align="center">
