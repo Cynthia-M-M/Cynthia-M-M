@@ -12,12 +12,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E91F7&center=true&vCenter=true&width=520&lines=Building+scalable+apps+with+Flutter;Backend+and+Web+with+Python+%26+JS;Learning+by+building%2C+every+day](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E91F7&center=true&vCenter=true&width=550&lines=Architecting+Secure+Enterprise+Systems;Deploying+AI+Powered+Backends;Integrating+SIEM+and+Cloud+Defense;Building+Scalable+Apps+with+Python+%26+Flutter)" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E91F7&center=true&vCenter=true&width=550&lines=Architecting+Secure+Enterprise+Systems;Deploying+AI+Powered+Backends;Integrating+SIEM+and+Cloud+Defense;Building+Scalable+Apps+with+Python+%26+Flutter" 
       alt="Typing SVG" 
     />
   </a>
 </p>
-
 ---
 
 ### 🧐 About Me
