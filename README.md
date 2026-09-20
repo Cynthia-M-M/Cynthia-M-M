@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Building resilient infrastructure, intelligent systems, and scalable digital products.
+  Building resilient infrastructure, intelligent systems and scalable digital products.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - 🔐 **Current Focus:** Architecting secure, scalable backend systems and integrating enterprise-grade AI solutions.
 - 🎓 **Continuous Learning:** Specializing in AI for Software Engineering through the Power Learn Project (PLP) and transitioning into Forensic IT & Cybercrime at USIU-Africa.
 - ⚙️ **Enterprise Security:** Active in the IBM Technology Training Program, deploying threat detection and identity layers (Guardium, QRadar, Verify) on Red Hat OpenShift.
-- 🏗️ **Core Expertise:** Python (FastAPI, Frappe), Cross-platform Mobile Engineering (Dart & Flutter), and secure RESTful API design.
+- 🏗️ **Core Expertise:** Python (FastAPI, Frappe), Cross-platform Mobile Engineering (Dart & Flutter) and secure RESTful API design.
 - 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/cynthia-moraa)
 
 ---
